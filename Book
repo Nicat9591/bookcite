@@ -1,0 +1,42 @@
+<html lang="Az">
+<head><link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+
+
+</head>
+<body>
+    <div class="back">
+<div class="abe">
+<div class="menu">
+    <ul>
+<li><a href="#" class="sol">Ana Səhifə</a></li>
+<li><a href="#">Məqalələr</a></li>
+<li><a href="#">Kitablar</a></li>
+<li><a href="#">Mühazirələr</a></li>
+<li><a href="#" class="saq">Haqqimizda</a></li>
+
+</ul>
+</div>
+</div>
+<a target="_blank" href="daxil.html">
+<button  class="dax"><em class="fas fa-sign-in-alt"></em>  Daxil ol</i></button> </a>
+<a target="_blank" href="inde.html">
+<button class="qeydiyyat"><em class="fas fa-user-plus"></em>  Qeydiyyatdan keç</button> </a> <br> <br> <br>  <br> <br>
+<input type="search" class="see" placeholder="Search">
+
+<i title="Search" class="fas fa-search"></i>
+
+<br>
+</div>
+
+
+<h2 class="yeni">Yeni əlavə olunanlar</h2>
+
+
+<a href="https://facebook.com/"> 
+<b  title="Click now" class="telegram">  Telegram kanalimiz</b> 
+</a> 
+
+
+</body>
+</html>
